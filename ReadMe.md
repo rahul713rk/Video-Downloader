@@ -27,7 +27,7 @@
 1. Download the `.deb` package:
    
    ```
-   wget https://yourdomain.com/path/to/yt-dlp-gui.deb
+   wget https://github.com/rahul713rk/Video-Downloader/blob/master/video-downloader.deb
    ```
 
 2. Install it using `dpkg`:
